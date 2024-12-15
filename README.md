@@ -1,2 +1,2 @@
 # Rajasthani-delious-food
-Creat for my school project
+"A website showcasing the delicious and traditional food of Rajasthan."
